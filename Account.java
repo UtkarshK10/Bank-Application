@@ -1,7 +1,7 @@
 package bankaccountapp;
 
 public abstract class Account implements IBaseRate {
-	//list common properties for savings and checking accounts
+	//list common properties for savings and current accounts
 	String name;
 	String SSN;
 	protected String accountNumber;
